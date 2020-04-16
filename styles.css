@@ -3,7 +3,7 @@ color: #ef962d;
 }
 
 body{
-  font-family: 'Montserrat', sans-serif;
+  font-family:'Montserrat', sans-serif;
   margin: 0;
   text-align: center;
 }
@@ -44,9 +44,10 @@ h3{
 }
 
 .imgcode{
-  float: left;
-  margin-bottom: 50px;
-  margin: 50px;
+  float: right;
+  margin-bottom: 30px;
+  margin-left: 50px;
+  margin-top: 30px;
 }
 
 .imgpoem{
