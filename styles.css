@@ -18,6 +18,7 @@ body{
 }
 
 hr{
+  color: #ef962d;
   margin: 0;
   margin-top: 20px;
 }
@@ -45,12 +46,21 @@ h3{
 .imgcode{
   float: left;
   margin-bottom: 50px;
-  margin: 30px;
+  margin: 50px;
+}
+
+.imgpoem{
+  float: left;
+  margin: 50px;
+  margin-top: 15px;
+
 }
 
 .imgprogrammer{
   float: left;
-  margin-right: 30px;
+  margin-left: 50px;
+  margin-right:50px;
+  margin-top: 15px;
 }
 
 .intro{
