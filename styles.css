@@ -31,6 +31,7 @@ body{
    font-size: 20px;
    font-weight: 400;
    margin-top: 30px;
+   margin-bottom: 100px;
    padding: 29px;
    background-color: #F3ECB8;
    -webkit-box-shadow: 1px 1px 10px 0 #000000;
@@ -55,7 +56,11 @@ body{
 
 .contact-me{
   margin: 0;
-  padding-bottom: 50px;
+  padding: 100px;
+}
+
+.footer-text{
+  padding: 10px;
 }
 
 hr{
@@ -130,7 +135,7 @@ h3{
 }
 
 .middle-container{
-  padding-top: 50px
+  padding: 100px
 }
 
 p{
@@ -147,6 +152,12 @@ p{
  bottom: 290px;
  width: 100%;
  height: 865px;
+}
+
+.skills{
+  padding: 50px;
+  padding-bottom: 30px;
+  padding-top: 70px;
 }
 
 .skill-row{
