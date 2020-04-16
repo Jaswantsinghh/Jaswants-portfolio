@@ -34,6 +34,7 @@ h2{
   color: #442727;
   font-family: 'Marcellus SC', serif;
   font-size: 2.5rem;
+  line-height: 2;
   margin: 0;
 }
 
@@ -47,7 +48,11 @@ h3{
   margin: 0;
   padding-top: 50px;
   background-color: #f3ecb8;
-  height: 755px;
+  height: 770px;
+}
+
+.introh2{
+  font-weight: normal;
 }
 
 .mainbody{
