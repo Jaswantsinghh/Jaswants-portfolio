@@ -1,5 +1,11 @@
 a{
 color: #ef962d;
+padding: 10px;
+text-decoration: none;
+}
+
+a:hover{
+  color: #442727;
 }
 
 body{
@@ -27,9 +33,9 @@ body{
    margin-top: 30px;
    padding: 29px;
    background-color: #F3ECB8;
-   -webkit-box-shadow: 1px 1px 20px 0 #000000;
-   -moz-box-shadow: 1px 1px 20px 0 #000000;
-   box-shadow: 1px 1px 20px 0 #000000;
+   -webkit-box-shadow: 1px 1px 10px 0 #000000;
+   -moz-box-shadow: 1px 1px 10px 0 #000000;
+   box-shadow: 1px 1px 10px 0 #000000;
    border: solid #442727 1px;
    text-decoration: none;
    display: inline-block;
@@ -65,7 +71,7 @@ hr{
 }
 
 
-.maintext{
+h1{
   width: 30%;
   margin: 0 auto 0 auto;
   color: #442727;
