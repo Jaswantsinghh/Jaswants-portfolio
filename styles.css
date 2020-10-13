@@ -173,3 +173,10 @@ p{
   margin: 100px auto 100px auto;
   text-align: left;
 }
+
+@media (max-width :991px)
+{
+  .intro{
+    height: 950px;
+  }
+}
